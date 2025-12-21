@@ -1,0 +1,13 @@
+// print the alphabets A to Z .
+
+public class PrintAtoZAlphabets {
+    public static void main(String[] args) {
+        
+        for(char i='A';i<='Z';i++)
+        {
+            System.out.print(" "+i);
+        }
+    }
+
+    
+}
